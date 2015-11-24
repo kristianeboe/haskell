@@ -14,3 +14,6 @@ cabal.sandbox.config
 *.prof
 *.aux
 *.hp
+SecretChord/
+.DS_Store
+Prolog/
